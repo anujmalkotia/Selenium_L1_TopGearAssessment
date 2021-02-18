@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/JARS/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/jars_1/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
